@@ -16,6 +16,7 @@ header {
     display: flex;
     color: #fff;
 }
+
 header, main  {
     margin-left: auto;
     margin-right: auto;
@@ -111,28 +112,6 @@ li {
     list-style-type:'\2714\00A0\00A0';
     font-weight: 500;
     margin-left: 20px;
-}
-
-
-footer {
-    width: 100%;
-}
-
-.container_footer{
-    width: 100%;
-
-    font-family: "Outfit", sans-serif;
-    font-size: 18px;
-
-    color: #D9B589;
-    background-color: #73542F;
-    text-align: center;
-
-    
-}
-
-h6 {
-    padding: 10px;
 }
 
 @media (min-width: 700px) {
