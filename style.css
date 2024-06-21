@@ -117,7 +117,8 @@ li {
 footer {
     width: 100%;
 }
-.footer {
+
+.container_footer{
     position: absolute;
     bottom: 0;
     width: 100%;
